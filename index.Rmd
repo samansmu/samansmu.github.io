@@ -1,0 +1,11 @@
+---
+title: "simplewebsite"
+author: "Sadik"
+date: "3/22/2021"
+output: html_document
+---
+
+# first website for msds
+## Note: tthe first six line above are YAML tags
+### I will knit the Rmd file to html file
+Then push the index chnages we made to repo
