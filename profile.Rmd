@@ -1,0 +1,10 @@
+---
+title: "profile"
+author: "Sadik"
+date: "3/22/2021"
+output: html_document
+---
+
+Hi, My name is Sadik Aman, live and work in Dallas, TX. Am attending my master program in Data Scince at SMU.
+My interest is playing and watching soccer game.
+
